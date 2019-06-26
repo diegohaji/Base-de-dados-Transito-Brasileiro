@@ -1,7 +1,7 @@
 # Base-de-dados-Transito-Brasileiro
 Esse repositório possui diversas imagens de placas do transito brasileiro e marcações feitas com Yolo_Mark,
 para o treinamento Deep Learning. Durante o treinamento foi utilizada a rede Yolov3 e a api Darknet. Junto da base
-encontram-se as configurações da rede utilizada, os pesos e a propria api.
+encontram-se as configurações da rede utilizada, os pesos, a propria API e o simulador utilizado para testes.
 
 Abaixo encontram-se os objetos e placas disponiveis na base de dados.
 
