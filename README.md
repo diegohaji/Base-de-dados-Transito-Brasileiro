@@ -3,8 +3,10 @@ Esse repositório possui diversas imagens de placas do transito brasileiro e mar
 para o treinamento Deep Learning. Durante o treinamento foi utilizada a rede Yolov3 e a api Darknet. Junto da base
 encontram-se as configurações da rede utilizada, os pesos, a propria API e o simulador utilizado para testes.
 Mais informações:
+https://proceedings.science/sbai-2019/papers/criacao-e-validacao-de-uma-base-de-dados-com-alguns--elementos-do-transito-brasileiro-para-veiculos-autonomos-
 
 http://sistemas.timoteo.cefetmg.br/nos/_media/bd:tcc:ec:2019:2019_campos.pdf
+
 
 Abaixo encontram-se os objetos e placas disponiveis na base de dados.
 
